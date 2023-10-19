@@ -1,3 +1,4 @@
+
 /*Estilos da página index.html*/
 .center {
     text-align: center;
@@ -53,8 +54,14 @@
     margin-bottom: 50px;
 }
 
+body {
+    background-color: #4e4c47;
+    }
+
+    
 /*Estilos da página contato.html*/
 
 .ml-50{
     margin-left: 50px;
 }
+
